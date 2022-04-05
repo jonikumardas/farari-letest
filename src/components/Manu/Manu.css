@@ -1,0 +1,25 @@
+.manu {
+    width: 100%;
+    background-color: black;
+    padding: 15px;
+}
+
+.manu a {
+    color: rgb(252, 251, 251);
+    margin-left: 8%;
+    text-decoration: none;
+
+}
+
+.manu a:hover {
+    color: grey;
+    font: 700;
+}
+
+@media only screen and (width:360px) {
+    .manu a {
+        margin-left: 13px;
+    }
+
+
+}

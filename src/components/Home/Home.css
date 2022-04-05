@@ -21,11 +21,13 @@
 
 .aritical-container p {
     font-size: 18px;
+    text-align: justify;
 }
 
 @media only screen and (width: 360px) {
     .container {
         flex-direction: column;
+        padding: 10px;
     }
 }
 
@@ -45,10 +47,12 @@
     padding: 0px 20px;
     border-radius: 20px;
     font-weight: 700;
+    box-shadow: 6px 2px 5px black;
 }
 
 .container button:hover {
-    background-color: chartreuse;
+    box-shadow: none;
+    color: #fff;
 }
 
 .container button p {
