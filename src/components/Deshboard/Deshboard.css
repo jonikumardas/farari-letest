@@ -1,0 +1,21 @@
+.conatainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.line-chart {
+    margin-top: 50px;
+}
+
+.Bar-chart {
+    margin-top: 50px;
+}
+
+@media only screen and (width:360px) {
+    .conatainer {
+        flex-direction: column;
+    }
+
+
+}

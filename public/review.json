@@ -5,7 +5,9 @@
         "index": 0,
         "guid": "e2879f8d-54cb-42d1-9e34-2e23c745b54e",
         "isActive": true,
-        "reviews": 5
+        "reviews": 4,
+        "descripttion": "The 2022 Maserati MC20 is a two-seat mid-engine sports car, the first Maserati to use that layout since the MC12 nearly 20 years ago. Unlike that car, the MC20 is a bespoke Maserati product that doesn't share a platform with any existing Ferraris, though Maserati say that the MC20's twin-turbocharged 3.0-liter V6 engine uses parts derived from the Scuderia Ferrari F1 team. We always step into an all-new sports car with mild trepidation, but after time behind the wheel both at the track and on the street, we walked away hugely impressed",
+        "gmail": "dewvrak12@gmail.com"
     },
     {
         "id": "624be6957c21a6360332f403",
@@ -13,7 +15,9 @@
         "index": 1,
         "guid": "3822a915-a4b9-4ca9-b428-93d0fcd420fa",
         "isActive": false,
-        "reviews": 5
+        "reviews": 5,
+        "descripttion": "When Porsche renamed its Boxster the 718 Boxster back in 2017 and replaced the car's six-cylinder engine with a turbocharged four-cylinder, part of the connection to the 911 — something so intrinsic to the Porsche experience — was lost. There's nothing wrong with the four-cylinder 718's performance certainly, but the driving experience, especially with the top down, lacks some all-important aural emotion.",
+        "gmail": "souad007@gmail.com"
     },
     {
         "id": "624be69500d5b11bf2d476c0",
@@ -21,7 +25,9 @@
         "index": 2,
         "guid": "f91f140e-7f6a-41ff-8b3e-b58a3f834e09",
         "isActive": false,
-        "reviews": 5
+        "reviews": 4.9,
+        "descripttion": "The new GTS certainly boosts the appeal of the Boxster. It is, certainly, among the most enjoyable convertible sports cars you can buy. You could look at the BMW Z4 if you want something a little more comfortable, or perhaps the Corvette convertible for its V8 rumble and newfound mid-engine agility. Boost your budget and Porsche's 911 is in play. But for the quintessential top-down sports car experience, the 2021 718 Boxster is hard to beat.",
+        "gmail": "tatypd85@gmail.com"
     },
     {
         "id": "624be695b374a7d9a9b33947",
@@ -29,7 +35,9 @@
         "index": 3,
         "guid": "2cbdbb18-8daf-4f05-9901-54edad99710a",
         "isActive": true,
-        "reviews": 5
+        "reviews": 5,
+        "descripttion": "The 2021 718 Boxster roadster is available in six trim levels: the base Boxster, Boxster T, Boxster S, Boxster GTS 4.0, Boxster 25 Years and Boxster Spyder. All are rear-wheel-drive and come standard with a six-speed manual transmission. A seven-speed dual-clutch automatic transmission (Porsche calls it PDK) is offered as an option. Feature highlights include:",
+        "gmail": "qmab555@gmail.com"
     },
     {
         "id": "624be6954fe7f985ca76612a",
@@ -37,7 +45,9 @@
         "index": 4,
         "guid": "c71d08eb-77ae-4e29-aee4-23b36da1f778",
         "isActive": false,
-        "reviews": 5
+        "reviews": 4.8,
+        "descripttion": "Last year, Porsche moved to rectify the discrepancy with the reintroduction of the six-cylinder-powered 718 Spyder. For 2021, it's following it up with the 718 Boxster GTS 4.0. It has the same naturally aspirated 4.0-liter flat-six engine as the Spyder, albeit with a bit less horsepower (394 horsepower compared to 414 hp). The Boxster GTS 4.0, though not inexpensive by any means, also offers good value for the standard equipment when compared to a similarly optioned-up S model.",
+        "gmail": "fatik02@gmail.com"
     },
     {
         "id": "624be69503f6d64cef59c39f",
@@ -45,6 +55,8 @@
         "index": 5,
         "guid": "c94dc5ac-1e36-49b9-aece-3e6ef07f0d74",
         "isActive": false,
-        "reviews": 5
+        "reviews": 4.5,
+        "descripttion": "Last year, Porsche moved to rectify the discrepancy with the reintroduction of the six-cylinder-powered 718 Spyder. For 2021, it's following it up with the 718 Boxster GTS 4.0. It has the same naturally aspirated 4.0-liter flat-six engine as the Spyder, albeit with a bit less horsepower (394 horsepower compared to 414 hp). The Boxster GTS 4.0, though not inexpensive by any means, also offers good value for the standard equipment when compared to a similarly optioned-up S model.",
+        "gmail": "lakhsr33@gmail.com"
     }
 ]
