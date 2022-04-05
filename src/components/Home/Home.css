@@ -29,6 +29,18 @@
         flex-direction: column;
         padding: 10px;
     }
+
+    .aritical-container {
+        flex-basis: 100%;
+    }
+
+    .image-container {
+        flex-basis: 100%;
+    }
+
+    .image-container img {
+        width: 100%;
+    }
 }
 
 .image-container {
