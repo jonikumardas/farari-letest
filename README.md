@@ -1,4 +1,14 @@
 # Getting Started with Create React App
+# Projects name 
+ptojects name[farary||letest](https://poetic-biscotti-fdd5a4.netlify.app/).
+*Title name edit.
+*Deshboard Rechart use.
+*router set up.
+*404 set up.
+*Use effect. 
+*Coustom hook.
+*6 commit up. 
+*Blog.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
