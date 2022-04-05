@@ -1,5 +1,6 @@
 import React from 'react';
 import img from '../../Assate/ass.jpg'
+import Revews from '../Reviews/Revews';
 import './Home.css';
 const Home = () => {
     return (
@@ -13,12 +14,10 @@ const Home = () => {
                 <button><p>Buy now</p></button>
           </div>
             <div className="image-container">
-
-                <img src={img} alt="" />
-
-                
+                <img src={img} alt="" />   
           </div>
             </div>
+            <Revews></Revews>
             </div>
     );
 };

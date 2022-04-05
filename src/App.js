@@ -21,10 +21,6 @@ function App() {
         <Route path='/about' element={<About></About>}></Route>
         <Route path='*' element={<Notfound></Notfound>}></Route>
       </Routes>
-      <div className='revews'>
-        <h1>Reviews</h1>
-        <Revews></Revews>
-      </div>
     </div>
   );
 }

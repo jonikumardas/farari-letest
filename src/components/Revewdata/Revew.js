@@ -10,7 +10,7 @@ const Revew = (props) => {
             <h3>Gamil:{gmail}</h3>
             <h3>Reviews:{reviews} star</h3>
             <p>Descripttion:{descripttion}</p>
-            <button> how review</button>
+            <button onClick={()=>props.EventHandeler(props)}>Sow review</button>
         </div>
     );
 };
