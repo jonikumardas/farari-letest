@@ -1,0 +1,56 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.aritical-container {
+    flex-basis: 50%;
+}
+
+.aritical-container h1 {
+    color: chartreuse;
+    font-weight: 800;
+    font-size: 45px;
+}
+
+.aritical-container span {
+    color: crimson;
+}
+
+.aritical-container p {
+    font-size: 18px;
+}
+
+@media only screen and (width: 360px) {
+    .container {
+        flex-direction: column;
+    }
+}
+
+.image-container {
+    flex-basis: 40%;
+}
+
+.image-container img {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.container button {
+    background-color: rgb(7, 7, 7);
+    color: crimson;
+    border: 1px solid gray;
+    padding: 0px 20px;
+    border-radius: 20px;
+    font-weight: 700;
+}
+
+.container button:hover {
+    background-color: chartreuse;
+}
+
+.container button p {
+    font-size: 18px;
+}
