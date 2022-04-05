@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Revew from '../Revewdata/Revew';
+import './Reviews.css';
 
 
 const Revews = () => {
@@ -12,7 +13,6 @@ const Revews = () => {
     
     return (
         <div className='conatiner'>
-            <h1> Reviews </h1>
             {
                 revews.map(revew => <Revew key={revew.id}
                 Revewdata={revew}

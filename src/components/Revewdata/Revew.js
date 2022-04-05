@@ -1,5 +1,6 @@
 import React from 'react';
-import './Revew.css'
+import './Revew.css';
+// import {Link} from "react-router-dom";
 
 const Revew = (props) => {
     const { name, reviews, descripttion, gmail } = props.Revewdata;
@@ -9,7 +10,7 @@ const Revew = (props) => {
             <h3>Gamil:{gmail}</h3>
             <h3>Reviews:{reviews} star</h3>
             <p>Descripttion:{descripttion}</p>
-            <button>Show review</button>
+            <button> how review</button>
         </div>
     );
 };
